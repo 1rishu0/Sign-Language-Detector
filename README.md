@@ -36,6 +36,10 @@ Ensure you have the following installed:
 4. **Inference / Real-Time Detection**  
    Launch `inference_classifier.py` to perform live gesture recognition using your webcam and the trained model.
 
+### Demo
+
+https://github.com/user-attachments/assets/93ad1bac-1be3-41c8-a810-ea1ee849557d
+
 ## License
 
 This project is released under the **GPL‑3.0 License**, so feel free to modify and share as per the license terms. :contentReference[oaicite:0]{index=0}
